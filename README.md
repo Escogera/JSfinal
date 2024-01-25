@@ -1,4 +1,4 @@
-# homework73
+# JS Final
 
 ## Project setup
 ```
